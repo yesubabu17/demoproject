@@ -1,2 +1,2 @@
 echo "samplecode.sh file has been created"
-echo "this is first project"
+echo "this is the first project"
